@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> New Document </TITLE>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+</HEAD>
+
+<BODY>
+<table border=2  cellpadding=2 cellspacing=2 >
+
+ <tr>
+ <th bgcolor=#FFB6C1 rowspan=3>Sl.<br>No.</th>
+ <th bgcolor=#FFB6C1 rowspan=3>Guidelines</th>
+ <th bgcolor=#AABECF colspan=3> Subject Title/Teacher Name</th></tr>
+
+ <tr align="center">
+ <td WIDTH="8%">aa</td>
+ <td WIDTH="8%">bb</td>
+ <td WIDTH="8%">cc</td></tr>
+
+ <tr align="center">
+ <td WIDTH="8%">SoftWare Proj.Management</td>
+ <td WIDTH="8%">Internet Technologies</td>
+ <td WIDTH="8%">sss</td></tr>
+
+ <tr align="center">
+ <td>1</th> 
+ <td >Passion and Enthusisum <br>to Teach</td>
+ <td>4</td>
+ <td>5</td>
+ <td>5</td>
+ </tr>
+
+ <tr >
+ <td>1</th> 
+ <td >Quality on Illustrative Visuals, <br />Examples and Applications </td>
+ <td>4</td>
+ <td>5</td>
+ <td>5</td>
+ </tr>
+ <tr>
+ <td>1</th> 
+ <td>Promoting Student Thinking </td>
+ <td>4</td>
+ <td>5</td>
+ <td>5</td>
+ </tr>
+ </table>
+				<!--	<tr >
+  					<th> <b><font size=1> Sl.N0 </font></b> </th></tr>
+					<th> <b><font size=1> Faculty Name </font></b> </th></tr>
+					<th> <b><font size=1> Subject </font></b></th></tr>
+					<th> <b><font size=1> Passion and Enthusisum  to Teach</font></b></th></tr>
+					<th> <b><font size=1> Subject Knowledge </font></b></th></tr>
+					<th> <b><font size=1> Clarity and Emophasis on Concepts </font></b> </th></tr>
+					<th> <b><font size=1> Motivating and Inspiring the Studen </font></b></th></tr>
+					<th> <b><font size=1> Creating Interest in the Subject </font></b> </th></tr>
+					<th> <b><font size=1> Quality on Illustrative Visuals, Examples and Applications </font></b></th></tr>
+					<th> <b><font size=1> Regularity, Punctuality and Uniform Coverege of Syllabus </font></b></th></tr>
+					<th> <b><font size=1> Discipline and control over the class </font></b></th></tr>
+					<th> <b><font size=1> Promoting Student Thinking </font></b></th></tr>
+					<th> <b><font size=1> Encouraging Student effort and Inviting Student Interaction </font></b></th> </tr></table> -->
+
+
+</BODY>
+</HTML>

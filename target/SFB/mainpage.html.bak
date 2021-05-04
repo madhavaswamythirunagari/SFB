@@ -1,0 +1,38 @@
+<HTML>
+<head><title>Aurora's Online Exam</title></head>
+<BODY bgcolor ="lightGrey">
+<img src="aurora.jpg"  align =left alt="College Logo" />
+<H1 ALIGN="CENTER">
+ <font size=20 color="CornflowerBlue"> Aurora's Engineering College </font> <br />
+ <font size=12 color="LightCoral"> Students Feed Back Form</font><br />
+ 
+ <hr />
+</H1>
+
+ 
+
+
+
+
+
+			<center><h1><b><font size=6 color="SteelBlue">WELCOME</font></b></h1>
+
+			<table border=10 bgcolor=oldlace cellpadding=10 cellspacing=10>
+			<tr><td><b>
+			<font size="8"><a  href="fdmainrp.html" ><font color="SteelBlue">Reports</a></font>
+			</td><td>
+			</font></b></font></td></tr>
+  
+ 
+			<tr><td><b><font size="8"><a href="login.html"><font color="SteelBlue">Faculty</a></font></td><td>
+			</b></font></td></tr>
+			  
+			</table></center>
+			</body>
+
+
+  
+</FORM>
+
+</BODY>
+</HTML>

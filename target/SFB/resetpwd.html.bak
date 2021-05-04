@@ -1,0 +1,45 @@
+<HTML>
+<head><title>Aurora's Feedback Form</title>
+<script src=pwdvalid.js></script>
+</head>
+
+<BODY bgcolor ="lightGrey">
+<img src="aurora.jpg"  align =left alt="College Logo" />
+<H1 ALIGN="CENTER">
+ <font size=10 color="CornflowerBlue" ><b> Aurora's Engineering College </b></font> <br />
+ <font size=6 color="LightCoral"> Students Feed Back Form</font><br />
+ <hr />
+</H1>
+	
+<form  name=formpwd method=post action="/SFB/rpwd" onsubmit=" return pwdvalid()">
+
+
+ <center><h1><b><font size=10 color="SteelBlue">Change Your Password</font></b></h1><br>
+ 
+ <table> 
+  
+ <tr><td><b>
+  <font size="4"><font color="SteelBlue">Enter New Password:</font></font></td><td>
+  </font></b><input type="text" name="pwd1" size="20" ></font></td></tr>
+  
+ 
+ <tr><td><b><font size="4"><font color="SteelBlue">Conformation Password:</font></font></td><td>
+  </b><input type="password" name="pwd2" size="20" ></font></td></tr>
+  
+
+</table></center>
+  <p>
+ 
+  <center><input type="submit" value="Submit"  title ="click here to submit">&nbsp;&nbsp;&nbsp;
+  <input type="reset" value="Reset">&nbsp;&nbsp;&nbsp;
+ </center>
+
+  
+</form></p>
+
+
+  
+</FORM>
+
+</BODY>
+</HTML>

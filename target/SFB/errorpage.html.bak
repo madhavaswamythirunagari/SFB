@@ -1,0 +1,14 @@
+<HTML>
+<head><title>Student Feedback</title></head>
+<BODY background ="Ripple.jpg">
+<img src="aurora.jpg"  align =left alt="College Logo" />
+<H1 ALIGN="CENTER">
+ <font size20 color="blue"> Aurora's Engineering College </font> <br />
+ <font size20 color="yellow"> Students Feed Back Form</font><br />
+
+<p> <hr />
+</H1>
+   <font size=10 color=White><center>Already Submitted The Form </center></font>
+
+</BODY>
+</HTML>

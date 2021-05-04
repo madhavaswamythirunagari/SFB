@@ -1,0 +1,81 @@
+<HTML>
+<head><title>Aurora's Online Exam</title></head>
+<BODY background ="ripple.jpg">
+<img src="aurora.jpg"  align =left alt="College Logo" />
+<H1 ALIGN="CENTER">
+ <font size20 color="blue"> Aurora's Engineering College </font> <br />
+ <font size20 color="blue"> Students Feed Back Form</font><br />
+ <font size20 color="yellow"> Faculty Subject Deatails</font>
+<p> <hr />
+</H1>
+
+ <FORM  method=post ACTION="/SFB/sl">
+
+
+
+
+
+			<center><h1><b><text color="yellow">WELCOME</text color></b></h1><br>
+			<table>
+			<tr><td>
+     		<font size=6 color="white"> Faculty Name    </font> </td>
+			<td> <INPUT TYPE="TEXT" size="20" maxlength ="20" NAME="f_fname"></td></tr>
+		
+			<tr><td>
+			<font size=6 color="white"> Subject         </font></td>
+			<td><INPUT TYPE="TEXT" size="20" maxlength ="20" NAME="f_subject"><BR></td>
+		
+			<tr><td>
+			<font size=6 color="white"> Branch          </font></td>
+			<td>
+			<select name="f_branch">
+			<option>CSE-A</option>
+			<option>CSE-B</option>
+			<option>IT</option>
+			<option>ECE-A</option>
+			<option>ECE-B</option>
+			<option>MECH-A</option>
+			<option>MECH-B</option>
+			<option>EIE</option>
+			<option>MCA</option>
+			<option>MBA</option>
+			<option>MTECH</option>
+			</select>
+			</td>
+		
+
+		
+			<tr><td>		
+			<font size=6 color="white"> Year            </font></td>
+			<td>
+			<select name="f_year">
+			<option>I</option>
+			<option>I-1</option>
+			<option>I-2</option>
+			<option>II-1</option>
+			<option>II-2</option>
+			<option>III-1</option>
+			<option>III-2</option>
+			<option>IV-1</option>
+			<option>IV-2</option>
+			<option>EIE</option>
+			<option>MCA</option>
+			<option>MBA</option>
+			<option>MTECH</option>
+			</select></td>
+			</tr>
+
+</table>
+
+</br>
+
+
+			
+  <INPUT TYPE="SUBMIT" value = "Submitt">
+  <INPUT TYPE="RESET" VALUE="Clear   ">
+  <font size="8"><a href="mainpage.html"><font color="white">Home</a></font>	
+</FORM>
+
+</center>
+</BODY>
+</HTML>

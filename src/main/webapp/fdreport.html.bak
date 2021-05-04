@@ -1,0 +1,80 @@
+<HTML>
+<head><title>Main Feedback Report</title><script src=validlistbox.js></script></head>
+<BODY bgcolor ="#6495ED">
+<img src="aurora.jpg"  align =left alt="College Logo" />
+<H1 ALIGN="CENTER">
+ <font color="#006400"> Aurora's Engineering College </font> <br />
+ <font color="yellow"> Students Feedback Report</font><br />
+
+<p> <hr />
+</H1>
+	<H1 align="center"><font color="pink">Select The Branch ,Year & Report Type </font></h1>
+ <FORM name="form" method=get ACTION="/SFB/fdrpm" onsubmit=" return lstbox()">
+
+	<table align=center>
+	<tr>
+     	<td><font size=6 color="white"> Branch </font><td>
+		<td><select name="h_class">
+			<option>-Select-</option>
+			<option>CSE-A</option>
+			<option>CSE-B</option>
+			<option>ECE-A</option>
+			<option>ECE-B</option>
+			<option>IT</option>
+			<option>MECH-A</option>
+			<option>MECH-B</option>
+			<option>EEE</option>
+			<option>CIVIL</option>
+			<option>MCA</option>
+			<option>MBA</option>
+			<option>MBA1</option>
+			<option>MBA2</option>
+			<option>MBA3</option>
+			<option>MBA4</option>
+			<option>MBA5</option>
+			<option>MTECH</option>
+			<option>WT</option>
+			<option>SE</option>
+			<option>PC</option>
+			<option>CS</option>
+			<option>VLSI</option>
+			<option>ES</option>
+			<option>PE</option>
+
+			</select>
+		<td></tr>
+
+
+		<tr><td><font size=6 color="white"> Year </font><td>
+		    <td><select name="h_year">
+			<option>-Select-</option>
+			<option>I</option>
+			<option>I-1</option>
+			<option>I-2</option>
+			<option>II-1</option>
+			<option>II-2</option>
+			<option>III-1</option>
+			<option>III-2</option>
+			<option>IV-1</option>
+			<option>IV-2</option>
+			</select>
+		<td></tr>
+
+		
+		</table>
+		<br>
+		<div align="center">
+		<hr>
+		<input type="radio" name="rtype" value="tp1" checked> Type 1
+		<input type="radio" name="rtype" value="tp2" > Type 2
+		<hr>
+
+	  <center>
+	 
+	  <INPUT TYPE="SUBMIT" value = "Submitt">
+	   </div>
+	
+</FORM>
+
+</BODY>
+</HTML>

@@ -1,0 +1,119 @@
+
+ <web-app>
+  
+  <welcome-file-list>
+   	<welcome-file>studentlogin.html</welcome-file>
+  </welcome-file-list>
+
+  <servlet>
+    <servlet-name>slogin</servlet-name>
+    <servlet-class>slogin</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>slogin</servlet-name>
+    <url-pattern>/sl</url-pattern>
+  </servlet-mapping>
+	
+	<servlet>
+    <servlet-name>feedback</servlet-name>
+    <servlet-class>feedback</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>feedback</servlet-name>
+    <url-pattern>/fd</url-pattern>
+  </servlet-mapping>
+
+	<servlet>
+    <servlet-name>fbinsert</servlet-name>
+    <servlet-class>fbinsert</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>fbinsert</servlet-name>
+    <url-pattern>/fbins</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>classreport</servlet-name>
+    <servlet-class>classreport</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>classreport</servlet-name>
+    <url-pattern>/cl</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>results</servlet-name>
+    <servlet-class>results</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>results</servlet-name>
+    <url-pattern>/rs</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>results2</servlet-name>
+    <servlet-class>results2</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>results2</servlet-name>
+    <url-pattern>/rs2</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>StudentLoginCheck</servlet-name>
+    <servlet-class>StudentLoginCheck</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>StudentLoginCheck</servlet-name>
+    <url-pattern>/slc</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>resetpwd</servlet-name>
+    <servlet-class>resetpwd</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>resetpwd</servlet-name>
+    <url-pattern>/rpwd</url-pattern>
+  </servlet-mapping>
+	
+	<servlet>
+    <servlet-name>fdmainrp</servlet-name>
+    <servlet-class>fdmainrp</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>fdmainrp</servlet-name>
+    <url-pattern>/fdrpm</url-pattern>
+  </servlet-mapping>
+
+	<servlet>
+    <servlet-name>results3</servlet-name>
+    <servlet-class>results3</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>results3</servlet-name>
+    <url-pattern>/fdrp1</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>results4</servlet-name>
+    <servlet-class>results4</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>results4</servlet-name>
+    <url-pattern>/fdtp2</url-pattern>
+  </servlet-mapping>
+
+  </web-app>
+
